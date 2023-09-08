@@ -1,0 +1,650 @@
+{
+    "JNJ": {
+        "symbol": "JNJ",
+        "analysts": 19,
+        "median": 181.0,
+        "high": 215.0,
+        "low": 167.0,
+        "current": 172.55
+    },
+    "AMC": {
+        "symbol": "AMC",
+        "analysts": 6,
+        "median": 1.78,
+        "high": 4.5,
+        "low": 0.5,
+        "current": 4.08
+    },
+    "NU": {
+        "symbol": "NU",
+        "analysts": 18,
+        "median": 8.6,
+        "high": 11.0,
+        "low": 4.0,
+        "current": 7.21
+    },
+    "AMD": {
+        "symbol": "AMD",
+        "analysts": 40,
+        "median": 145.0,
+        "high": 200.0,
+        "low": 95.0,
+        "current": 105.46
+    },
+    "BAC": {
+        "symbol": "BAC",
+        "analysts": 23,
+        "median": 35.0,
+        "high": 49.0,
+        "low": 28.0,
+        "current": 29.12
+    },
+    "AAPL": {
+        "symbol": "AAPL",
+        "analysts": 39,
+        "median": 200.0,
+        "high": 240.0,
+        "low": 160.0,
+        "current": 174.49
+    },
+    "X": {
+        "symbol": "X",
+        "analysts": 7,
+        "median": 25.0,
+        "high": 30.0,
+        "low": 14.36,
+        "current": 31.0
+    },
+    "DLO": {
+        "symbol": "DLO",
+        "analysts": 12,
+        "median": 16.5,
+        "high": 25.0,
+        "low": 12.0,
+        "current": 19.65
+    },
+    "AMZN": {
+        "symbol": "AMZN",
+        "analysts": 48,
+        "median": 175.0,
+        "high": 230.0,
+        "low": 129.9,
+        "current": 133.24
+    },
+    "COHR": {
+        "symbol": "COHR",
+        "analysts": 16,
+        "median": 39.5,
+        "high": 63.0,
+        "low": 35.0,
+        "current": 34.46
+    },
+    "RIVN": {
+        "symbol": "RIVN",
+        "analysts": 21,
+        "median": 30.0,
+        "high": 44.0,
+        "low": 15.0,
+        "current": 20.78
+    },
+    "PBR": {
+        "symbol": "PBR",
+        "analysts": 11,
+        "median": 14.8,
+        "high": 19.0,
+        "low": 5.53,
+        "current": 13.89
+    },
+    "SNAP": {
+        "symbol": "SNAP",
+        "analysts": 31,
+        "median": 9.5,
+        "high": 15.0,
+        "low": 6.0,
+        "current": 9.18
+    },
+    "INTC": {
+        "symbol": "INTC",
+        "analysts": 35,
+        "median": 37.0,
+        "high": 65.0,
+        "low": 17.0,
+        "current": 32.75
+    },
+    "BBD": {
+        "symbol": "BBD",
+        "analysts": 3,
+        "median": 4.2,
+        "high": 5.1,
+        "low": 3.5,
+        "current": 3.05
+    },
+    "T": {
+        "symbol": "T",
+        "analysts": 20,
+        "median": 19.0,
+        "high": 25.0,
+        "low": 8.0,
+        "current": 14.07
+    },
+    "LCID": {
+        "symbol": "LCID",
+        "analysts": 9,
+        "median": 8.0,
+        "high": 10.0,
+        "low": 5.0,
+        "current": 6.17
+    },
+    "BABA": {
+        "symbol": "BABA",
+        "analysts": 50,
+        "median": 140.52,
+        "high": 185.1,
+        "low": 71.14,
+        "current": 88.04
+    },
+    "TGT": {
+        "symbol": "TGT",
+        "analysts": 28,
+        "median": 152.5,
+        "high": 184.0,
+        "low": 120.0,
+        "current": 131.21
+    },
+    "MARA": {
+        "symbol": "MARA",
+        "analysts": 5,
+        "median": 15.0,
+        "high": 20.0,
+        "low": 9.0,
+        "current": 11.27
+    },
+    "SE": {
+        "symbol": "SE",
+        "analysts": 31,
+        "median": 70.0,
+        "high": 145.0,
+        "low": 45.0,
+        "current": 38.68
+    },
+    "PFE": {
+        "symbol": "PFE",
+        "analysts": 21,
+        "median": 41.0,
+        "high": 75.0,
+        "low": 32.0,
+        "current": 36.68
+    },
+    "JD": {
+        "symbol": "JD",
+        "analysts": 35,
+        "median": 55.06,
+        "high": 97.11,
+        "low": 31.72,
+        "current": 33.1
+    },
+    "ITUB": {
+        "symbol": "ITUB",
+        "analysts": 4,
+        "median": 7.0,
+        "high": 7.15,
+        "low": 6.8,
+        "current": 5.41
+    },
+    "GOOGL": {
+        "symbol": "GOOGL",
+        "analysts": 47,
+        "median": 150.0,
+        "high": 200.0,
+        "low": 121.0,
+        "current": 127.46
+    },
+    "ET": {
+        "symbol": "ET",
+        "analysts": 15,
+        "median": 17.0,
+        "high": 22.0,
+        "low": 15.0,
+        "current": 13.0
+    },
+    "CSCO": {
+        "symbol": "CSCO",
+        "analysts": 19,
+        "median": 57.0,
+        "high": 68.0,
+        "low": 45.0,
+        "current": 55.05
+    },
+    "HBAN": {
+        "symbol": "HBAN",
+        "analysts": 19,
+        "median": 13.0,
+        "high": 15.0,
+        "low": 11.0,
+        "current": 11.15
+    },
+    "VALE": {
+        "symbol": "VALE",
+        "analysts": 24,
+        "median": 17.0,
+        "high": 20.13,
+        "low": 11.7,
+        "current": 12.32
+    },
+    "CLF": {
+        "symbol": "CLF",
+        "analysts": 5,
+        "median": 18.0,
+        "high": 26.0,
+        "low": 13.44,
+        "current": 14.97
+    },
+    "CMCSA": {
+        "symbol": "CMCSA",
+        "analysts": 27,
+        "median": 50.0,
+        "high": 55.0,
+        "low": 39.0,
+        "current": 45.75
+    },
+    "GRAB": {
+        "symbol": "GRAB",
+        "analysts": 26,
+        "median": 4.35,
+        "high": 5.5,
+        "low": 3.0,
+        "current": 3.25
+    },
+    "META": {
+        "symbol": "META",
+        "analysts": 46,
+        "median": 380.0,
+        "high": 435.0,
+        "low": 238.0,
+        "current": 283.28
+    },
+    "IONQ": {
+        "symbol": "IONQ",
+        "analysts": 6,
+        "median": 17.0,
+        "high": 21.0,
+        "low": 14.0,
+        "current": 13.43
+    },
+    "PLUG": {
+        "symbol": "PLUG",
+        "analysts": 27,
+        "median": 15.0,
+        "high": 78.0,
+        "low": 7.5,
+        "current": 8.64
+    },
+    "MSFT": {
+        "symbol": "MSFT",
+        "analysts": 42,
+        "median": 400.0,
+        "high": 440.0,
+        "low": 232.0,
+        "current": 316.52
+    },
+    "PYPL": {
+        "symbol": "PYPL",
+        "analysts": 37,
+        "median": 85.0,
+        "high": 126.0,
+        "low": 55.0,
+        "current": 59.43
+    },
+    "TJX": {
+        "symbol": "TJX",
+        "analysts": 21,
+        "median": 99.0,
+        "high": 110.0,
+        "low": 84.9,
+        "current": 89.53
+    },
+    "UBER": {
+        "symbol": "UBER",
+        "analysts": 39,
+        "median": 58.0,
+        "high": 75.0,
+        "low": 32.5,
+        "current": 44.69
+    },
+    "SWN": {
+        "symbol": "SWN",
+        "analysts": 23,
+        "median": 8.0,
+        "high": 14.0,
+        "low": 5.0,
+        "current": 6.51
+    },
+    "VZ": {
+        "symbol": "VZ",
+        "analysts": 22,
+        "median": 39.0,
+        "high": 45.0,
+        "low": 34.0,
+        "current": 33.2
+    },
+    "PINS": {
+        "symbol": "PINS",
+        "analysts": 26,
+        "median": 32.0,
+        "high": 45.0,
+        "low": 24.0,
+        "current": 26.46
+    },
+    "GOOG": {
+        "symbol": "GOOG",
+        "analysts": 46,
+        "median": 150.0,
+        "high": 200.0,
+        "low": 121.0,
+        "current": 128.11
+    },
+    "OPEN": {
+        "symbol": "OPEN",
+        "analysts": 10,
+        "median": 3.2,
+        "high": 7.0,
+        "low": 1.0,
+        "current": 3.16
+    },
+    "GOLD": {
+        "symbol": "GOLD",
+        "analysts": 23,
+        "median": 22.27,
+        "high": 29.0,
+        "low": 17.2,
+        "current": 15.61
+    },
+    "FNMA": {
+        "symbol": "FNMA",
+        "analysts": 2,
+        "median": 0.75,
+        "high": 1.0,
+        "low": 0.5,
+        "current": 0.62
+    },
+    "LYFT": {
+        "symbol": "LYFT",
+        "analysts": 29,
+        "median": 11.0,
+        "high": 18.0,
+        "low": 7.6,
+        "current": 11.14
+    },
+    "JBLU": {
+        "symbol": "JBLU",
+        "analysts": 11,
+        "median": 7.5,
+        "high": 9.0,
+        "low": 4.5,
+        "current": 6.34
+    },
+    "NOK": {
+        "symbol": "NOK",
+        "analysts": 24,
+        "median": 5.49,
+        "high": 7.8,
+        "low": 4.35,
+        "current": 3.81
+    },
+    "KEY": {
+        "symbol": "KEY",
+        "analysts": 20,
+        "median": 13.0,
+        "high": 18.0,
+        "low": 10.0,
+        "current": 10.84
+    },
+    "XOM": {
+        "symbol": "XOM",
+        "analysts": 22,
+        "median": 120.0,
+        "high": 145.0,
+        "low": 100.0,
+        "current": 110.07
+    },
+    "TSEM": {
+        "symbol": "TSEM",
+        "analysts": 2,
+        "median": 34.5,
+        "high": 38.0,
+        "low": 31.0,
+        "current": 30.63
+    },
+    "C": {
+        "symbol": "C",
+        "analysts": 23,
+        "median": 50.0,
+        "high": 95.0,
+        "low": 45.0,
+        "current": 42.26
+    },
+    "XPEV": {
+        "symbol": "XPEV",
+        "analysts": 37,
+        "median": 14.14,
+        "high": 28.03,
+        "low": 2.47,
+        "current": 14.98
+    },
+    "GGB": {
+        "symbol": "GGB",
+        "analysts": 15,
+        "median": 6.69,
+        "high": 7.95,
+        "low": 5.6,
+        "current": 5.1
+    },
+    "NYCB": {
+        "symbol": "NYCB",
+        "analysts": 16,
+        "median": 15.75,
+        "high": 17.0,
+        "low": 12.0,
+        "current": 11.78
+    },
+    "MRVL": {
+        "symbol": "MRVL",
+        "analysts": 27,
+        "median": 70.0,
+        "high": 100.0,
+        "low": 60.0,
+        "current": 57.58
+    },
+    "MPW": {
+        "symbol": "MPW",
+        "analysts": 11,
+        "median": 10.0,
+        "high": 18.0,
+        "low": 7.0,
+        "current": 6.93
+    },
+    "DIS": {
+        "symbol": "DIS",
+        "analysts": 24,
+        "median": 110.0,
+        "high": 146.0,
+        "low": 65.0,
+        "current": 85.99
+    },
+    "BRFS": {
+        "symbol": "BRFS",
+        "analysts": 11,
+        "median": 2.08,
+        "high": 3.36,
+        "low": 1.45,
+        "current": 2.08
+    },
+    "TFC": {
+        "symbol": "TFC",
+        "analysts": 24,
+        "median": 36.25,
+        "high": 45.0,
+        "low": 29.5,
+        "current": 28.81
+    },
+    "DKNG": {
+        "symbol": "DKNG",
+        "analysts": 30,
+        "median": 37.0,
+        "high": 44.0,
+        "low": 22.5,
+        "current": 26.57
+    },
+    "RIG": {
+        "symbol": "RIG",
+        "analysts": 14,
+        "median": 8.5,
+        "high": 12.0,
+        "low": 6.0,
+        "current": 8.21
+    },
+    "AGNC": {
+        "symbol": "AGNC",
+        "analysts": 9,
+        "median": 10.5,
+        "high": 11.25,
+        "low": 9.5,
+        "current": 9.49
+    },
+    "MQ": {
+        "symbol": "MQ",
+        "analysts": 16,
+        "median": 7.0,
+        "high": 9.0,
+        "low": 4.0,
+        "current": 5.73
+    },
+    "KDP": {
+        "symbol": "KDP",
+        "analysts": 17,
+        "median": 40.0,
+        "high": 45.0,
+        "low": 30.0,
+        "current": 33.77
+    },
+    "WFC": {
+        "symbol": "WFC",
+        "analysts": 22,
+        "median": 52.0,
+        "high": 57.0,
+        "low": 43.0,
+        "current": 42.51
+    },
+    "BCS": {
+        "symbol": "BCS",
+        "analysts": 16,
+        "median": 11.06,
+        "high": 16.45,
+        "low": 8.74,
+        "current": 7.36
+    },
+    "MU": {
+        "symbol": "MU",
+        "analysts": 29,
+        "median": 80.0,
+        "high": 100.0,
+        "low": 46.0,
+        "current": 63.58
+    },
+    "TME": {
+        "symbol": "TME",
+        "analysts": 25,
+        "median": 8.31,
+        "high": 11.01,
+        "low": 5.9,
+        "current": 6.54
+    },
+    "COIN": {
+        "symbol": "COIN",
+        "analysts": 22,
+        "median": 85.0,
+        "high": 200.0,
+        "low": 27.0,
+        "current": 73.21
+    },
+    "CHPT": {
+        "symbol": "CHPT",
+        "analysts": 17,
+        "median": 15.0,
+        "high": 27.0,
+        "low": 10.0,
+        "current": 7.05
+    },
+    "PCG": {
+        "symbol": "PCG",
+        "analysts": 10,
+        "median": 19.5,
+        "high": 21.0,
+        "low": 15.0,
+        "current": 16.73
+    },
+    "KMI": {
+        "symbol": "KMI",
+        "analysts": 16,
+        "median": 20.0,
+        "high": 23.0,
+        "low": 18.0,
+        "current": 17.43
+    },
+    "ONON": {
+        "symbol": "ONON",
+        "analysts": 14,
+        "median": 35.77,
+        "high": 47.79,
+        "low": 20.34,
+        "current": 30.26
+    },
+    "SIRI": {
+        "symbol": "SIRI",
+        "analysts": 14,
+        "median": 5.0,
+        "high": 7.0,
+        "low": 3.5,
+        "current": 4.5
+    },
+    "FCX": {
+        "symbol": "FCX",
+        "analysts": 19,
+        "median": 45.0,
+        "high": 57.0,
+        "low": 29.0,
+        "current": 38.85
+    },
+    "DISH": {
+        "symbol": "DISH",
+        "analysts": 14,
+        "median": 9.32,
+        "high": 32.0,
+        "low": 5.0,
+        "current": 6.69
+    },
+    "KGC": {
+        "symbol": "KGC",
+        "analysts": 16,
+        "median": 6.5,
+        "high": 8.2,
+        "low": 3.5,
+        "current": 4.62
+    },
+    "ABEV": {
+        "symbol": "ABEV",
+        "analysts": 5,
+        "median": 3.74,
+        "high": 5.0,
+        "low": 2.6,
+        "current": 2.86
+    },
+    "USB": {
+        "symbol": "USB",
+        "analysts": 23,
+        "median": 43.0,
+        "high": 67.0,
+        "low": 36.0,
+        "current": 36.84
+    }
+}

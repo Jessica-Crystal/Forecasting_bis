@@ -1,0 +1,35 @@
+{
+    "AAPL": {
+        "symbol": "AAPL",
+        "currency": "USD",
+        "currentPrice": 179.46,
+        "targetHighPrice": 240.0,
+        "targetLowPrice": 149.0,
+        "targetMeanPrice": 201.18,
+        "targetMedianPrice": 201.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 40
+    },
+    "GOOG": {
+        "symbol": "GOOG",
+        "currency": "USD",
+        "currentPrice": 131.83,
+        "targetHighPrice": 160.0,
+        "targetLowPrice": 120.0,
+        "targetMeanPrice": 141.44,
+        "targetMedianPrice": 140.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9
+    },
+    "MSFT": {
+        "symbol": "MSFT",
+        "currency": "USD",
+        "currentPrice": 324.04,
+        "targetHighPrice": 440.0,
+        "targetLowPrice": 232.0,
+        "targetMeanPrice": 388.26,
+        "targetMedianPrice": 400.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 45
+    }
+}
